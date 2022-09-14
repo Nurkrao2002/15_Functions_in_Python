@@ -10,3 +10,4 @@ def wk(name="hh"):
     print(f"My Name at Work Place is {name}")
     cn()
 sc()
+
