@@ -33,3 +33,4 @@ def z(p,q):
 p=int(input())
 q=int(input())
 print(z(p,q))
+
