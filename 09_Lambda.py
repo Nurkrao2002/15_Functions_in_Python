@@ -5,3 +5,4 @@ r = f(3,10,5) #call lambda function
 z= s(2,3,5)
 print('Sum =',r)# display r
 print('Mul =',z)# display z
+
